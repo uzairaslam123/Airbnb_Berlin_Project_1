@@ -53,7 +53,7 @@ The files are descibed below.
 
 ## Conclusion<a name="conclusion"></a>
 I have written my conclusion for each question in their respective jupyter notebook.
-For more details please visit my blog (Coming soon).
+For more details please visit my blog (https://medium.com/me/stats/post/fc03aad6d6a6).
 
 
 
