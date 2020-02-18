@@ -43,11 +43,8 @@ For **Modelling** i used the following:
 In this repository I have uploaded three jupyter notebooks, 1 Readme file and 1 Dataset.
 
 The files are descibed below.
-- **Question_1**: In this file i have answered my first questions using the listing database. In the file you will find preprocessing of the data along with Graphs and the conclusions at the end.
+- **Airbnb_Berlin_CRISP_DM**: In this file i have answered all my three questions following the CRISP_DM approach and using the listing database. In the file you will find preprocessing of the data along with Graphs and the conclusions at the end.
 
-- **Question_2**: In this file i have answered my first questions using the listing database. In the file you will find preprocessing of the data along with Graphs and the conclusions at the end.
-
-- **Question_3**: In this file i have answered my first questions using the listing database. In the file you will find preprocessing of the data along with Graphs and the conclusions at the end.
 
 - **listing.csv**: This is the official dataset of Airbnb Berlin listing.
 
